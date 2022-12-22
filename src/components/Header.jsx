@@ -9,7 +9,9 @@ const Header = () => {
       <div className='Header_title-container'>
         <h1>La próxima revolución en el intercambio de criptomonedas.</h1>
         <p>Batabit te ayuda a navegar entre los diferentes precios y tendencias. </p>
-        <a className='Header_button' href="">Conoce nuestros planes <span>i</span></a>
+        <a className='Header_button' href="">Conoce nuestros planes
+         <span>    </span>    
+        </a>
       </div>
     </header>
   )
